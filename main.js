@@ -1,3 +1,5 @@
-
-console.log("hello world")
-console.log('hello world')
+let i = 0
+while(i<10){
+    console.log(i);
+    i++
+}
